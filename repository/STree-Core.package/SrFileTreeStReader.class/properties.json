@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MCFileTreeStReader",
+	"category" : "STree-Core-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SrFileTreeStReader",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MCFileTreeStWriter",
+	"category" : "STree-Core-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"streamDic",
+		"classDefinitions",
+		"classTraitDefinitions",
+		"traitDefinitions",
+		"methodDefinitions"
+	],
+	"name" : "SrFileTreeStWriter",
+	"type" : "normal"
+}
